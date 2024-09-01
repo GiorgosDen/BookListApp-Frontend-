@@ -2,6 +2,7 @@
 This repository contains a React project, part of a wider project (Repository: BookListApp). 
 
 Built project: run the command "npm install"
+
 Execute project: run the command "npm start"
 
 This project provides a user interface to see, delete, or add books on a server (by using the NodeJS API [BookListApp-Backend-]). 
